@@ -3,6 +3,17 @@
   "version": "1.0.8",
   "description": "client2 for wechat mp",
   "main": "gulpfile.js",
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lj1013240912/mp2heel.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/humpback/humpback-web/issues"
+    },
+    "homepage": "https://github.com/humpback/humpback-web#readme",
   "dependencies": {
 	"humpback-weboo": "^1.0.10",
     "babel": "^6.23.0",
